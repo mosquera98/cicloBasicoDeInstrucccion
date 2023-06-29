@@ -5,6 +5,11 @@ para que se muestre el resultado en pantalla.
 EJEMPLO 1:
 En la linea 48 del archivo "main.cpp" (ifstream archivo("L.txt");), si cambiamos "L.txt" por  "ENTRADA1.txt", se debe mostrar el resultado "88"
 
+EJEMPLO 2:
+En la linea 48 del archivo "main.cpp" (ifstream archivo("L.txt");), si cambiamos "L.txt" por  "ENTRADA2.txt", se debe mostrar el resultado "14"
+
+
+
 
 
 
