@@ -11,7 +11,7 @@ En la linea 48 del archivo "main.cpp" (ifstream archivo("ENTRADA1.txt");), si ca
 EJEMPLO  3:
 En la linea 48 del archivo "main.cpp" (ifstream archivo("ENTRADA1.txt");), si cambiamos "ENTRADA1.txt" por  un archivo .txt que no exista y ejecutamos sel programa debe mostrar el mensaje : "No se pudo abrir el archivo de entrada".
 
-Se pueden crear nuevos archivos .txt con las instrucciones a realizar y se debe de mostrar el resultado correspondiente.
+Se pueden crear nuevos archivos .txt con las instrucciones a realizar y al ejecutar el programa, especificando como entreda uno de estos nuevos archivos, se debe de mostrar el resultado correspondiente.
 
 
 
